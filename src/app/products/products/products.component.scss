@@ -1,0 +1,26 @@
+table {
+  width: 100%;
+}
+
+.loading-spinner {
+  padding: 25px;
+  background: rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.example-flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 8px 8px 8px 0;
+  width: 49px;
+}
+
+.button-create {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: flex-center;
+}
